@@ -59,19 +59,12 @@
   "tokens": [
     {
       "chainId": 101,
-      "address": "3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91",
-      "symbol": "EV1",
-      "name": "EveryOne Coin",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91/logo.png",
-      "tags": [
-        "currency"
-      ],
-      "extensions": {
-        "facebook": "https://facebook.com/everyonecoin",
-        "twitter": "https://twitter.com/everyonecoin",
-        "website": "https://everyonecoin.com/"
-      }
+      "address": "DuJSA9MVA715XBcqtrMY5uhYSkBynx9ejnQPjjECwAxU",
+      "symbol": "GATSU",
+      "name": "GATSU 30",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/luthfiiip19/token-list/main/assets/mainnet/DuJSA9MVA715XBcqtrMY5uhYSkBynx9ejnQPjjECwAxU/logo.png",
+      "tags": ["currency"]
     },
     {
       "chainId": 101,
