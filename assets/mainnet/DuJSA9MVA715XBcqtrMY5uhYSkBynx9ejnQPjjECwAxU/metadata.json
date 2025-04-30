@@ -1,0 +1,15 @@
+{
+  "name": "Gatsu 30",
+  "symbol": "GATSU",
+  "description": "Token Gatsu 30 di jaringan Solana.",
+  "image": "https://raw.githubusercontent.com/luthfiiip19/token-list/main/assets/mainnet/DuJSA9MVA715XBcqtrMY5uhYSkBynx9ejnQPjjECwAxU/logo.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/luthfiiip19/token-list/main/assets/mainnet/DuJSA9MVA715XBcqtrMY5uhYSkBynx9ejnQPjjECwAxU/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
+
