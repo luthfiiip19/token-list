@@ -1,15 +1,25 @@
 {
   "name": "Gatsu 30",
   "symbol": "GATSU",
-  "description": "Token Gatsu 30 di jaringan Solana.",
+  "description": "GATSU is a utility token created as part of an educational initiative. The name "GATSU" comes from the street where the school is located, symbolizing the spirit of learning and community among students.",
   "image": "https://raw.githubusercontent.com/luthfiiip19/token-list/main/assets/mainnet/DuJSA9MVA715XBcqtrMY5uhYSkBynx9ejnQPjjECwAxU/logo.png",
+  "seller_fee_basis_points": 0,
   "properties": {
     "files": [
       {
         "uri": "https://raw.githubusercontent.com/luthfiiip19/token-list/main/assets/mainnet/DuJSA9MVA715XBcqtrMY5uhYSkBynx9ejnQPjjECwAxU/logo.png",
         "type": "image/png"
       }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "DuJSA9MVA715XBcqtrMY5uhYSkBynx9ejnQPjjECwAxU",
+        "share": 100
+      }
     ]
   }
 }
+
+
 
